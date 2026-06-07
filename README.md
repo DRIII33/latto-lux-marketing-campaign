@@ -19,6 +19,6 @@ Our primary objective is to leverage data analytics and machine learning to opti
 
 * `data/`: Contains raw and processed CSV files used for analysis.
 * `notebooks/`: Includes Google Colab notebooks for data generation, cleaning, and modeling.
-* `reports/`: Houses reports and presentations for stakeholders and team members.
+* `docs/`: Houses reports and presentations for stakeholders and team members.
 * `data_dictionary.md`: A comprehensive guide to all data fields used in the project.
 * `README.md`: This document.
