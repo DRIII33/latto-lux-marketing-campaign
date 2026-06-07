@@ -18,7 +18,8 @@ Our primary objective is to leverage data analytics and machine learning to opti
 ## Repository Structure
 
 * `data/`: Contains raw and processed CSV files used for analysis.
+* `SQL/`: SQL Join of 2 datasets and the corresponding "view" for BigQuery / Looker Studio Connection.
 * `notebooks/`: Includes Google Colab notebooks for data generation, cleaning, and modeling.
 * `docs/`: Houses reports and presentations for stakeholders and team members.
 * `data_dictionary.md`: A comprehensive guide to all data fields used in the project.
-* `README.md`: This document.
+* `README.md`: Project Overview and Key Objectives.
