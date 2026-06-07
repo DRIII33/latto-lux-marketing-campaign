@@ -1,6 +1,6 @@
 # **Latto Lux: A Data-Driven Marketing Campaign**
 
-## **Analyst & Creator:** Daniel Rodriguez III
+#### **Analyst & Creator:** Daniel Rodriguez III
 
 ## Project Overview
 
